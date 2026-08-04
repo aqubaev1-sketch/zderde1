@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function Footer() {
   return (
-    <footer className="bg-white border-t border-[#d1d5db] pt-16 pb-8 mt-auto">
+    <footer className="w-full bg-white border-t border-[#464646] pt-16 pb-8 mt-auto">
       <div className="max-w-[1400px] mx-auto px-4 md:px-10">
         
         {/* Негізгі 3 бағанды бөлік */}
