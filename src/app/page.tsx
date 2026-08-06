@@ -49,7 +49,7 @@ export default function Home() {
       
       <div className="pt-4">
         <Link
-          href="/register"
+          href="/testEnt"
           className="inline-flex items-center gap-2 px-8 py-4 bg-black text-white font-bold uppercase tracking-wider text-sm hover:bg-gray-800 motion-safe:transition-colors rounded-md shadow"
         >
           <span>Перейти в практикум</span>
